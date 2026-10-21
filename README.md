@@ -44,7 +44,7 @@ Desenvolvedor Full Stack focado em Node.js e React, com experiência em integra�
 - **Infraestrutura**: Deploy em Linux com Nginx, servidores de arquivos via FTP em máquina própria, experiência também com AWS e Oracle Cloud.
 - **Integrações**: Mercado Livre, Shopee, APIs de CEP e Correios, e qualquer API com documentação disponível.
 
-## Estatísticas
+## Formação Acadêmica
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaioAugustoSouza&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioAugustoSouza&layout=compact)
+**Análise e Desenvolvimento de Sistemas** — Unoeste (FIPP)
+Formado no 2º semestre de 2025, melhor aluno da turma.
