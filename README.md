@@ -44,6 +44,12 @@ Desenvolvedor Full Stack focado em Node.js e React, com experiência em integra�
 - **Infraestrutura**: Deploy em Linux com Nginx, servidores de arquivos via FTP em máquina própria, experiência também com AWS e Oracle Cloud.
 - **Integrações**: Mercado Livre, Shopee, APIs de CEP e Correios, e qualquer API com documentação disponível.
 
+## Projetos em Produção
+
+- [Apolo3](https://apolo3.com.br) — ERP completo para e-commerce (emissão de notas, estoque, integração com marketplaces). Desenvolvimento fullstack.
+- [Modaliss](https://modaliss.com.br) — Loja virtual de moda. Desenvolvimento do frontend.
+- [Clínica Queiroz e Nogueira](https://queirozenogueira.com.br) — Site institucional. Desenvolvimento completo.
+
 ## Formação Acadêmica
 
 **Análise e Desenvolvimento de Sistemas** — Unoeste (FIPP)
